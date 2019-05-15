@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Controls = props => {
-  const { locked, closed, toggleLocked, toggleClosed } = props;
+  const {locked, closed, toggleLocked, toggleClosed} = props;
 
   return (
     <div className="controls panel">
