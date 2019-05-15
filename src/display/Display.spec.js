@@ -1,7 +1,7 @@
 // Test away!
 import React from 'react';
 import Display from './Display';
-import {render, fireEvent} from 'react-testing-library';
+import {render} from 'react-testing-library';
 
 import 'react-testing-library/cleanup-after-each';
 
